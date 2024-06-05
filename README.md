@@ -22,7 +22,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Vazhamx/badges/large)
+![codewars](https://www.codewars.com/users/Vazhmax/badges/large)
 
 ### 💻 Технологии:
 
